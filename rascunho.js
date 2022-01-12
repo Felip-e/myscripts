@@ -1,5 +1,5 @@
-var n1 = 2;
-var n2 = 3;
+let n1 = 2;
+let n2 = 3;
 
 function soma(a, b){
     return a + b;
