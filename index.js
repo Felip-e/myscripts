@@ -8,5 +8,3 @@ console.log(soma(n1, n2));
 const sub = (a, b) => a - b;
 
 console.log(sub(n2, n1));
-
-asdklglkdsjgakjgdaslkg
