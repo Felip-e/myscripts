@@ -6,3 +6,9 @@ function soma(a, b){
 }
 
 console.log(soma(n1, n2));
+
+function sub(a, b){
+    return a - b;
+}
+
+console.log(sub(n2, n1));
