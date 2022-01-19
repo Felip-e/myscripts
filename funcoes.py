@@ -25,3 +25,10 @@ def soma_lista(k):
 lista = [i for i in range(1, 11)]
 
 print(soma_lista(lista))
+
+
+def mul(a, b):
+    return a * b
+
+
+print(mul(n1, n2))
